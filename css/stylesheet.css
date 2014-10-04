@@ -1,7 +1,13 @@
+h1 {
+    font-family: Cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
 #header {
     border-radius: 5px;
     background-color: #bbbbbb;
-    height: 10%;
+    height: 50px;
     width: 100%;
     position: fixed;
     z-index: 1;
@@ -11,8 +17,12 @@
     border-radius: 5px;
     clear: both;
     background-color: #cccccc;
-    height: 80%;
+    height: 10%;
     width: 100%;
+}
+
+.menu {
+    list-style: main;
 }
 
 .left {
