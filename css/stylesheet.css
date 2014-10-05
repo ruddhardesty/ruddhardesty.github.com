@@ -28,8 +28,9 @@ h1 {
 }
 
 .menu {
-    list-style: main;
+    list-style: none;
     padding: 10px;
+    float: left;
 }
 
 .left {
