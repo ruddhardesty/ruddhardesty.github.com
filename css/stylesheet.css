@@ -11,6 +11,7 @@ h1 {
     width: 100%;
     position: fixed;
     z-index: 1;
+    border-style: solid;
 }
 
 #footer {
@@ -19,6 +20,7 @@ h1 {
     background-color: #cccccc;
     height: 10%;
     width: 100%;
+    border-style: solid;
 }
 
 .menu {
@@ -31,6 +33,7 @@ h1 {
     background-color: #aaaaFF;
     height: 80%;
     width: 70%;
+    border:style: solid;
 }
 
 .right {
@@ -39,4 +42,5 @@ h1 {
     background-color: #9999ff;
     height: 80%;
     width: 30%;
+    border-style: solid;
 }
