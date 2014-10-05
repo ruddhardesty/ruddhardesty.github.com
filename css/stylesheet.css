@@ -11,8 +11,10 @@ h1 {
     width: 100%;
     position: fixed;
     z-index: 1;
-    border-style: solid;
-    margin: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 10px;
+    padding: 10px;
 }
 
 #footer {
@@ -21,12 +23,16 @@ h1 {
     background-color: #cccccc;
     height: 10%;
     width: 100%;
-    border-style: solid;
-    margin: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 10px;
+    padding: 10px;
 }
 
 .menu {
     list-style: main;
+    float: left
+    padding: 10px;
 }
 
 .left {
@@ -41,7 +47,7 @@ h1 {
 
 .right {
     border-radius: 5px;
-    float: right;
+    float: left;
     background-color: #9999ff;
     height: 80%;
     width: 25px;
