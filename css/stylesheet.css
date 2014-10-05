@@ -12,7 +12,7 @@ h1 {
     position: fixed;
     z-index: 1;
     border-style: solid;
-    border-margin: 5px;
+    margin: 5px;
 }
 
 #footer {
@@ -22,7 +22,7 @@ h1 {
     height: 10%;
     width: 100%;
     border-style: solid;
-    border-margin: 5px;
+    margin: 5px;
 }
 
 .menu {
@@ -36,7 +36,7 @@ h1 {
     height: 80%;
     width: 50px;
     border-style: solid;
-    border-margin: 5px;
+    margin: 5px;
 }
 
 .right {
@@ -46,5 +46,5 @@ h1 {
     height: 80%;
     width: 25px;
     border-style: solid;
-    border-margin: 5px;
+    margin: 5px;
 }
