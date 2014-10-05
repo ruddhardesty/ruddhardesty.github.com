@@ -39,8 +39,8 @@ h1 {
     border-radius: 5px;
     float: left;
     background-color: #aaaaFF;
-    height: 80%;
-    width: 50px;
+    height: 50%;
+    width: 70%;
     border-style: solid;
     margin: 5px;
 }
@@ -49,8 +49,8 @@ h1 {
     border-radius: 5px;
     float: left;
     background-color: #9999ff;
-    height: 80%;
-    width: 25px;
+    height: 50%;
+    width: 20%;
     border-style: solid;
     margin: 5px;
 }
