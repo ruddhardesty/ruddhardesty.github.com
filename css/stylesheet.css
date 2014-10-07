@@ -7,8 +7,7 @@ h1 {
 #header {
     background-color: #bbbbbb;
     height: 50px;
-    width: 100%;
-    position: fixed;
+    width: 90%;
     /* z-index: 1; */
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -20,7 +19,7 @@ h1 {
     clear: both;
     background-color: #cccccc;
     height: 10%;
-    width: 100%;
+    width: 90%;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     margin: 10px;
@@ -30,13 +29,16 @@ h1 {
 .menu {
     list-style: none;
     padding: 10px;
-    float: left;
+}
+
+.background {
+    background-color: #aaaaff;
 }
 
 .left {
     border-radius: 5px;
     float: left;
-    background-color: #aaaaFF;
+/*    background-color: #aaaaFF; */
     height: 50%;
     width: 70%;
     border-style: solid;
@@ -46,7 +48,7 @@ h1 {
 .right {
     border-radius: 5px;
     float: left;
-    background-color: #9999ff;
+/*    background-color: #9999ff; */
     height: 50%;
     width: 20%;
     border-style: solid;
