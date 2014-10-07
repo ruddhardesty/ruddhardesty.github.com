@@ -36,12 +36,13 @@ h1 {
 }
 
 .left {
-    border-radius: 5px;
+    /* border-radius: 5px;*/
     float: left;
 /*    background-color: #aaaaFF; */
     height: 50%;
     width: 70%;
-    border-style: solid;
+    border-right-style: solid;
+    border-color: black;
     margin: 5px;
 }
 
