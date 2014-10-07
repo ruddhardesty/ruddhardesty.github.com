@@ -7,23 +7,23 @@ h1 {
 #header {
     background-color: #bbbbbb;
     height: 50px;
-    width: 90%;
+    width: 100em;
     /* z-index: 1; */
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    margin: 10px;
-    padding: 10px;
+    /* margin: 10px;
+    padding: 10px; */
 }
 
 #footer {
     clear: both;
     background-color: #cccccc;
     height: 10%;
-    width: 90%;
+    width: 100em;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    margin: 10px;
-    padding: 10px;
+    /* margin: 10px;
+    padding: 10px; */
 }
 
 .menu {
@@ -39,7 +39,7 @@ h1 {
     /* border-radius: 5px;*/
     float: left;
 /*    background-color: #aaaaFF; */
-    width: 35em;
+    width: 65em;
     border-right-style: solid;
     border-color: black;
 }
